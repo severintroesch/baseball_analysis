@@ -1,1 +1,3 @@
-# severintroesch_task4.4
+# baseball_analysis
+  
+ analysis on scraped MLB data
